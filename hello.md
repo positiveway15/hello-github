@@ -5,5 +5,3 @@
 - add
 - commit
 - push
-
--ver3 만든후에 작성
